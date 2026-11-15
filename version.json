@@ -1,7 +1,7 @@
 {
   "versionCode": 3,
   "versionName": "1.3.2",
-  "apkUrl": "https://github.com/budiwp79/geocam-pro/releases/download/v1.3.1/app-release.apk",
+  "apkUrl": "https://github.com/budiwp79/geocam-pro/releases/download/v1.3.2/app-release.apk",
   "releaseNotes": "• Fitur In-App Auto-Update langsung tanpa Play Store\n• Perbaikan cetakan PDF Executive Grid\n• Mode Cermin Kamera Depan & Foto Galeri\n• Penyesuaian Inset Status Bar Modal",
   "forceUpdate": false
 }
