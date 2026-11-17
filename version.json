@@ -2,6 +2,6 @@
   "versionCode": 5,
   "versionName": "1.3.4",
   "apkUrl": "https://github.com/budiwp79/geocam-pro/releases/download/1.3.4/app-debug.apk",
-  "releaseNotes": "• Bagikan & Impor Template Watermark\n• Rotasi Otomatis Watermark\n• Pilih Banyak Foto & Hapus Ganda\n• Kolase Foto PRO dengan Zoom & Fullscreen Preview\n• Kompatibilitas Lensa Kamera 0.6x Ultra-Wide Semua HP\n• Isolasi Folder Proyek per Akun Email & Safe Area Navigasi",
+  "releaseNotes": "• Bagikan & Impor Template Watermark\n• Rotasi Otomatis Watermark\n• Pilih Banyak Foto & Hapus Ganda\n• Kolase Foto PRO & Fullscreen Preview\n• Kompatibilitas Lensa Kamera 0.6x Ultra-Wide\n• Isolasi Folder Proyek per Akun",
   "forceUpdate": false
 }
